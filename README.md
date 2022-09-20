@@ -1,5 +1,5 @@
 <div align="center">
-  ###Mungchi's right now..
+  Mungchi's right now..
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMungchi&count_bg=%23F1C096&title_bg=%23C0A6F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
