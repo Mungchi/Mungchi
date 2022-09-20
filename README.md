@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mungchi1992)](https://solved.ac/mungchi1992)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungchi&layout=Demo&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungchi&layout=compact&theme=cobalt)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMungchi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
